@@ -3,7 +3,27 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "start": "node ./app/index.js"
+  },
   "author": "Trus Sangwarn <trus.sangwarn@icloud.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.5.1",
+    "babel-plugin-transform-flow-strip-types": "^6.5.0",
+    "babel-preset-es2015-node5": "^1.1.2",
+    "babel-preset-stage-0": "^6.5.0",
+    "gulp": "^3.9.1",
+    "gulp-live-server": "0.0.29",
+    "gulp-shell": "^0.5.2",
+    "gulp-watch": "^4.3.5",
+    "rimraf": "^2.5.1",
+    "run-sequence": "^1.1.5"
+  },
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.4",
+    "morgan": "^1.6.1",
+    "multer": "^1.1.0"
+  }
 }
