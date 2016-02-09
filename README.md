@@ -1,3 +1,13 @@
+How to start
+
+```bash
+$ npm update
+```
+
+```bash
+$ gulp
+```
+
 Backend Task
 ---
 - Develop a simple API to serve trip information
