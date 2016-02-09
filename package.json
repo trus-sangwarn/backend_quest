@@ -13,6 +13,7 @@
     "babel-plugin-transform-flow-strip-types": "^6.5.0",
     "babel-preset-es2015-node5": "^1.1.2",
     "babel-preset-stage-0": "^6.5.0",
+    "bluebird": "^3.2.2",
     "gulp": "^3.9.1",
     "gulp-live-server": "0.0.29",
     "gulp-shell": "^0.5.2",
@@ -23,6 +24,7 @@
   "dependencies": {
     "body-parser": "^1.14.2",
     "express": "^4.13.4",
+    "mongoose": "^4.4.2",
     "morgan": "^1.6.1",
     "multer": "^1.1.0"
   }
