@@ -1,0 +1,9 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Trus Sangwarn <trus.sangwarn@icloud.com>",
+  "license": "MIT"
+}
